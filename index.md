@@ -10,3 +10,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+### Test Checklist
+Lists are...
+- [x] Organized
+- [x] Easy to make
+- [ ] A waste of time
